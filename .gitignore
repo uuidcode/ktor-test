@@ -1,2 +1,6 @@
 # Created by .ignore support plugin (hsz.mobi)
 ktor-test.iml
+.idea/
+src/main/resources/
+src/test/
+target/
